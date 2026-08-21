@@ -1,6 +1,6 @@
-# Warhead Site Rank
+# Warhead Site Evaluation
 
-PyMOL scanner for covalent-warhead site selection. Given a protein complex, it finds **target-interface nucleophiles** and ranks **binder** residues that can be mutated to Cys for linker/warhead installation.
+PyMOL tool for covalent-warhead **site evaluation**. Given a protein complex, it finds **target-interface nucleophiles** and evaluates **binder** residues that can be mutated to Cys for linker/warhead installation (geometry, rotamers, clash/path, exposure, and class).
 
 This is a structural heuristic. It does **not** predict reaction rate, covalent yield, or in vivo effect.
 
