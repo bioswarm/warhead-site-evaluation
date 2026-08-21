@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+_smoke_out/
+docs/
+*.log
+.DS_Store
